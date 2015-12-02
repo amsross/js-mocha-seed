@@ -10,6 +10,7 @@
   "license": "MIT",
   "homepage": "https://github.com/kata-seeds/js-mocha-seed",
   "devDependencies": {
-    "mocha": "2.3.4"
+    "mocha": "",
+    "should": ""
   }
 }

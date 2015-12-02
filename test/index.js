@@ -1,9 +1,11 @@
-var assert = require("assert");
+var should = require("should");
 var Person = require("../src/kata");
 
-describe("Person", function () {
-  it("has a greeting", function() {
-    var person = new Person();
-    assert.equal(person.greet(), "Hello!");
+describe(Person, function () {
+  describe("#greet", function () {
+    it("returns a greeting", function() {
+      var person = new Person();
+      person.greet().should.eql("Hello!");
+    });
   });
 });
