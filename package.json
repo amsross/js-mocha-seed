@@ -1,14 +1,14 @@
 {
-  "name": "js-mocha-kata-seed",
+  "name": "js-mocha-should-kata-seed",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kata-seeds/js-mocha-seed.git"
+    "url": "https://github.com/kata-seeds/js-mocha-should-seed.git"
   },
   "license": "MIT",
-  "homepage": "https://github.com/kata-seeds/js-mocha-seed",
+  "homepage": "https://github.com/kata-seeds/js-mocha-should-seed",
   "devDependencies": {
     "mocha": "",
     "should": ""

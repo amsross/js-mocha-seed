@@ -1,12 +1,12 @@
-# [Kata Seeds](http://kata-seeds.github.io): JavaScript + [Mocha](https://mochajs.org/)
-[![Build Status](https://travis-ci.org/kata-seeds/js-mocha-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/js-mocha-seed)
+# [Kata Seeds](http://kata-seeds.github.io): JavaScript + [Mocha](https://mochajs.org/) + [Should](https://shouldjs.github.io/)
+[![Build Status](https://travis-ci.org/kata-seeds/js-mocha-should-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/js-mocha-should-seed)
 
 ## Getting Started
 
 Clone this repo with `git`:
 
-    git clone https://github.com/kata-seeds/js-mocha-seed.git
-    cd js-mocha-seed
+    git clone https://github.com/kata-seeds/js-mocha-should-seed.git
+    cd js-mocha-should-seed
 
 Install dependencies and run your tests with `make`:
 
