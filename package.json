@@ -1,0 +1,15 @@
+{
+  "name": "js-mocha-kata-seed",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kata-seeds/js-mocha-seed.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/kata-seeds/js-mocha-seed",
+  "devDependencies": {
+    "mocha": "2.3.4"
+  }
+}
